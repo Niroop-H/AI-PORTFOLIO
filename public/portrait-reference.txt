@@ -1,0 +1,1 @@
+The portfolio expects the owner's portrait at public/niroop-h.jpeg. Add the supplied portrait there before publishing. A vector fallback is available at /niroop-h.svg.
