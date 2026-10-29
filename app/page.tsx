@@ -131,7 +131,7 @@ export default function Home() {
             <div className="portrait-orbit orbit-a" />
             <div className="portrait-orbit orbit-b" />
             <div className="portrait-frame">
-              <img src="/niroop-h.jpeg" alt="Niroop H in a blue business suit" className="portrait" />
+              <img src="/niroop-h.svg" alt="Niroop H profile portrait" className="portrait" />
               <div className="portrait-grain" />
               <div className="portrait-caption"><span className="caption-mark">N/H</span><div><strong>NIROOP H</strong><span>FOUNDER · MAH QUANTUM</span></div><ArrowUpRight size={18} /></div>
             </div>
