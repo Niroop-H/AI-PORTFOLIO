@@ -1,0 +1,1 @@
+Place static public assets here. The profile portrait file should be named `niroop-h.jpeg`.
