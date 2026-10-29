@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { useEffect, useState } from "react";
 import { ArrowDownRight, ArrowUpRight, Cpu, Github, Linkedin, Menu, X, Zap } from "lucide-react";
 
@@ -132,7 +131,7 @@ export default function Home() {
             <div className="portrait-orbit orbit-a" />
             <div className="portrait-orbit orbit-b" />
             <div className="portrait-frame">
-              <Image src="/niroop-h.svg" alt="Stylized Niroop H profile illustration" fill priority sizes="(max-width: 800px) 90vw, 42vw" className="portrait" />
+              <img src="/niroop-h.jpeg" alt="Niroop H in a blue business suit" className="portrait" />
               <div className="portrait-grain" />
               <div className="portrait-caption"><span className="caption-mark">N/H</span><div><strong>NIROOP H</strong><span>FOUNDER · MAH QUANTUM</span></div><ArrowUpRight size={18} /></div>
             </div>
